@@ -1,0 +1,4 @@
+pelican[markdown]==4.9.1
+Markdown==3.7
+jinja2>=3.1
+ 
